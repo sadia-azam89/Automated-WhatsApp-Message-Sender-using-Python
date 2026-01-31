@@ -18,3 +18,4 @@ Technologies Used:
 Python
 pywhatkit
 WhatsApp Web
+<img width="1213" height="131" alt="image" src="https://github.com/user-attachments/assets/f3724111-9238-48a2-9b9e-1dd12706ff2e" />
